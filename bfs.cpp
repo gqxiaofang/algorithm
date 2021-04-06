@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 /*
-广搜优先搜索DFS解决迷宫问题
+广度优先搜索DFS解决迷宫问题
 */
 /*
 5 4
